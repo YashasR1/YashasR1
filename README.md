@@ -58,6 +58,8 @@
 
 <br clear="both">
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/<your-username>/<repo>/output/snake.svg)
+
 <img src="https://raw.githubusercontent.com/YashasR1/YashasR1/output/snake.svg" alt="Snake animation" />
 
 ###
