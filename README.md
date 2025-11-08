@@ -5,7 +5,7 @@
 ###
 <p>Full-stack developer with a soft spot for React, Web3, and ThreeJS.
 I love turning concepts into interactive digital projects.
-Outside the code editor, you’ll find me tracking finance news and learning from the markets.<br>We craft modern, responsive websites that help businesses stand out and grow online. More at:https://nexuz.in/</p>
+Outside the code editor, you’ll find me tracking finance news and learning from the markets.<br>We craft modern, responsive websites that help businesses stand out and grow online. More at: https://nexuz.in/</p>
 
 <img align="right" height="216" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhvNG83Z3locnBsMWhvaXdwZGV4c2JnbG81eXk0MHMyM2VxaWswdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ramBbsu5kGc8AJHd1h/giphy.gif"  />
 <div align="left">
@@ -54,7 +54,7 @@ Outside the code editor, you’ll find me tracking finance news and learning fro
 
 <h1></h1>
 
-<p> 📊<b>Stats</b> <p>
+<p> 📊 <b>Stats</b> <p>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YashasR1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashasR1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
