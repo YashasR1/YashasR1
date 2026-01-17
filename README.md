@@ -56,8 +56,7 @@ Outside the code editor, you’ll find me tracking finance news and learning fro
 
 <p> 📊 <b>Stats</b> <p>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashasR1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashasR1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github.com/YashasR1/YashasR1/blob/main/github-metrics.svg" width="100%" alt="Metrics" />
 </div>
 <h1></h1>
 <br clear="both">
