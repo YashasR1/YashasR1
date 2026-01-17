@@ -56,7 +56,7 @@ Outside the code editor, you’ll find me tracking finance news and learning fro
 
 <p> 📊 <b>Stats</b> <p>
 <div align="left">
-  <img src="https://github.com/YashasR1/YashasR1/blob/main/github-metrics.svg" width="100%" alt="Metrics" />
+  <img src="https://github.com/YashasR1/YashasR1/blob/main/github-metrics.svg" width="50%" alt="Metrics" />
 </div>
 <h1></h1>
 <br clear="both">
